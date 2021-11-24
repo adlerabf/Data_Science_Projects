@@ -7,7 +7,7 @@
 # Adler Barroso Ferreira
 <sub>*Insurance Renewal* at Sicoob Corretora </sub>
 
-My job background come from the investment and insurance market, where I learned to analise plenty data of clients and they're procducts.
+My job background come from the investment and insurance market, where I learned to analise plenty data of clients and they're assets.
 
 Spent some time analising stock prices, COE's, assest, fixed income assets and economy index for a good wealth management. 
 

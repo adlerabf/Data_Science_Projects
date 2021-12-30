@@ -9,9 +9,9 @@
 
 My job background come from the investment and insurance market, where I learned to analise plenty data of clients and they're assets.
 
-Spent some time analising stock prices, COE's, assest, fixed income assets and economy index for a good wealth management. 
+Spent some time analising stock prices, COE's, assets, fixed income assets and economy index for a good wealth management. 
 
-From that experience came the soft skills, then I realise that I like to analise data and if I started to learn Python and Data Science I could become a great professinal. To achive that, I'm taking classes with Carlos Melo in the course of Sigmoidal: Data Science na Pratica.
+From that experience came my soft skills, then, I realise that I like to analise data and if I started to learn Python and Data Science, I could become a great professinal. To achive that, I'm taking classes with Carlos Melo in the course of Sigmoidal: Data Science na Pratica.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/adler-barroso-ferreira-790323144)

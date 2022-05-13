@@ -5,13 +5,14 @@
 </p>
 
 # Adler Barroso Ferreira
-<sub>*Insurance Renewal* at Sicoob Corretora </sub>
+<sub>*Auxiliar de Renovação* na Sicoob Corretora </sub>
 
-My job background come from the investment and insurance market, where I learned to analise plenty data of clients and they're assets.
+Minha experiência mais forte no mercado, veio das áreas de investimentos e seguros. Passei algum tempo analisando produtos de investimentos  como: preços de ações, COE's, fundos, renda fixa e indices economicos para uma boa gestão de portifolio.
 
-Spent some time analising stock prices, COE's, assets, fixed income assets and economy index for a good wealth management. 
+Nas minhas tarefas, sempre gostei de analisar os dadaos e seus comportamentos, construia planilhas de excel com diversas fórmulas com essa finalidade e quando me dei conta, observei que minha paixão estava em analisar dados. Nessa virada de chave, comecei a me interessar pela carreira de cientista de dados e comecei a estudar Python voltado para Data Science. Foi onde encontrei o curso de Data Science na Prática da Sigmoidal, portal do ilústre Professor Carlos Melo.
 
-From that experience came my soft skills, then, I realise that I like to analise data and if I started to learn Python and Data Science, I could become a great professinal. To achive that, I'm taking classes with Carlos Melo in the course of Sigmoidal: Data Science na Pratica.
+Mais abaixo, irei segmentar os projetos desenvolvidos durante meus estudos deste curso.
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/adler-barroso-ferreira-790323144)
@@ -19,7 +20,7 @@ From that experience came my soft skills, then, I realise that I like to analise
 
 
 
-## Projects:
-...under construction
+## Projetos:
+...em construção
 
 ---

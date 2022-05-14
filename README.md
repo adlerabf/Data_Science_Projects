@@ -16,6 +16,7 @@ Mais abaixo, irei segmentar os projetos desenvolvidos durante meus estudos deste
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/adler-barroso-ferreira-790323144)
+* [Instagram](https://www.instagram.com/adler.abf/)
 * [Sigmoidal](https://sigmoidal.ai/)
 
 

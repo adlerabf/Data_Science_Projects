@@ -21,6 +21,6 @@ Mais abaixo, irei segmentar os projetos desenvolvidos durante meus estudos deste
 
 
 ## Projetos:
-...em construção
+* [Analise Exploratória do AIRBNB - Florida](https://colab.research.google.com/drive/1GPtj21dp6CIFdmnHTy9gjyv24N40CKp0?usp=sharing)
 
 ---

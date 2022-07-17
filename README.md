@@ -23,5 +23,5 @@ Mais abaixo, irei segmentar os projetos desenvolvidos durante meus estudos deste
 * [Visualização de Dados com Python](https://www.linkedin.com/pulse/data-science-visualiza%25C3%25A7%25C3%25A3o-de-dados-com-python-adler-barroso-ferreira)
 
 ## Projetos:
-* [Analise Exploratória do AIRBNB - Florida](https://colab.research.google.com/drive/1GPtj21dp6CIFdmnHTy9gjyv24N40CKp0?usp=sharing)
+* [Analise Exploratória do AIRBNB - Florida](https://github.com/adlerabf/Data_Science_Course_Projects/blob/main/Analisando_os_Dados_do_Airbnb_Florida.ipynb)
 ---

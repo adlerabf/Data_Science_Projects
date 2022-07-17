@@ -19,9 +19,9 @@ Mais abaixo, irei segmentar os projetos desenvolvidos durante meus estudos deste
 * [Instagram](https://www.instagram.com/adler.abf/)
 * [Sigmoidal](https://sigmoidal.ai/)
 
-
+## Artigos
+* [Visualização de Dados com Python](https://www.linkedin.com/pulse/data-science-visualiza%25C3%25A7%25C3%25A3o-de-dados-com-python-adler-barroso-ferreira)
 
 ## Projetos:
 * [Analise Exploratória do AIRBNB - Florida](https://colab.research.google.com/drive/1GPtj21dp6CIFdmnHTy9gjyv24N40CKp0?usp=sharing)
-
 ---

@@ -21,6 +21,8 @@ Mais abaixo, irei segmentar os projetos desenvolvidos durante meus estudos deste
 
 ## Artigos
 * [Visualização de Dados com Python](https://www.linkedin.com/pulse/data-science-visualiza%25C3%25A7%25C3%25A3o-de-dados-com-python-adler-barroso-ferreira)
+ * [Notebook de Apoio (Visualição de Dados com Python)](https://colab.research.google.com/drive/1g7oLrLbM9_kqkUq9Z4N-69Xc63rKs4Rb?usp=sharing)
+* [Panorama do COVID19 no Brasil](https://colab.research.google.com/drive/1iRzyj2BaAI7wrLIItF3fQcQyioTiI4F8?usp=sharing)
 
 ## Projetos:
 * [Analise Exploratória do AIRBNB - Florida](https://github.com/adlerabf/Data_Science_Course_Projects/blob/main/Analisando_os_Dados_do_Airbnb_Florida.ipynb)

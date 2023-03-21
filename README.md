@@ -7,11 +7,11 @@
 # Adler Barroso Ferreira
 <sub>*Auxiliar de Renovação* na Sicoob Corretora </sub>
 
-Minha experiência mais forte no mercado, veio das áreas de investimentos e seguros. Passei algum tempo analisando produtos de investimentos  como: preços de ações, COE's, fundos, renda fixa e indices economicos para uma boa gestão de portifolio.
+My strongest experience in the market came from the investment and insurance areas. I spent some time analyzing investment products such as stock prices, structured notes, funds, fixed income, and economic indices for good portfolio management.
 
-Nas minhas tarefas, sempre gostei de analisar os dadaos e seus comportamentos, construia planilhas de excel com diversas fórmulas com essa finalidade e quando me dei conta, observei que minha paixão estava em analisar dados. Nessa virada de chave, comecei a me interessar pela carreira de cientista de dados e comecei a estudar Python voltado para Data Science. Foi onde encontrei o curso de Data Science na Prática da Sigmoidal, portal do ilústre Professor Carlos Melo.
+In my tasks, I always enjoyed analyzing data and its behaviors. I built Excel spreadsheets with various formulas for this purpose, and when I realized it, I noticed that my passion was in data analysis. At this turning point, I became interested in a career as a data scientist and began studying Python focused on data science. That's where I found the Data Science na Prática course at Sigmoidal, the portal of the illustrious Professor Carlos Melo.
 
-Mais abaixo, irei segmentar os projetos desenvolvidos durante meus estudos deste curso.
+Further down, I will segment the projects developed during my studies in this course.
 
 
 **Links:**

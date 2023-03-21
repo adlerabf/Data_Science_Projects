@@ -5,7 +5,7 @@
 </p>
 
 # Adler Barroso Ferreira
-<sub>*Auxiliar de Renovação* na Sicoob Corretora </sub>
+<sub>*Insurance Renewal Assistant* at Sicoob Corretora </sub>
 
 My strongest experience in the market came from the investment and insurance areas. I spent some time analyzing investment products such as stock prices, structured notes, funds, fixed income, and economic indices for good portfolio management.
 

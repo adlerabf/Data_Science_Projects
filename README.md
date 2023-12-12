@@ -7,24 +7,24 @@
 # Adler Barroso Ferreira
 <sub>*Insurance Renewal Assistant* at Sicoob Corretora </sub>
 
-My strongest experience in the market came from the investment and insurance areas. I spent some time analyzing investment products such as stock prices, structured notes, funds, fixed income, and economic indices for good portfolio management.
+Minha experiência mais sólida no mercado veio das áreas de investimento e seguros. Dediquei algum tempo à análise de produtos de investimento, como preços de ações, produtos estruturadas, fundos, renda fixa e índices econômicos para uma boa gestão de portfólio.
 
-In my tasks, I always enjoyed analyzing data and its behaviors. I built Excel spreadsheets with various formulas for this purpose, and when I realized it, I noticed that my passion was in data analysis. At this turning point, I became interested in a career as a data scientist and began studying Python focused on data science. That's where I found the Data Science na Prática course at Sigmoidal, the portal of the illustrious Professor Carlos Melo.
+Nas minhas tarefas, sempre gostei de analisar dados e seus comportamentos. Construí planilhas do Excel com várias fórmulas para esse fim, e quando percebi, pude ver que minha paixão estava na análise de dados. Nesta virada de chave, me interessei pelas carreiras de cientista de dados e analista de dados, e comecei a estudar Python com foco com objetivo de migrar para esse ramo. 
 
-Further down, I will segment the projects developed during my studies in this course.
+Mais adiante, vou segmentar os projetos desenvolvidos durante meus estudos.
 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/adler-barroso-ferreira-790323144)
 * [Instagram](https://www.instagram.com/adler.abf/)
-* [Sigmoidal](https://sigmoidal.ai/)
 
-## Articles
+## Artigos
 * [Visualização de Dados com Python](https://www.linkedin.com/pulse/data-science-visualiza%25C3%25A7%25C3%25A3o-de-dados-com-python-adler-barroso-ferreira)
  * [Notebook de Apoio (Visualição de Dados com Python)](https://colab.research.google.com/drive/1g7oLrLbM9_kqkUq9Z4N-69Xc63rKs4Rb?usp=sharing)
 
 
-## Projects:
+## Projetos:
 * [Analise Exploratória do AIRBNB - Florida](https://github.com/adlerabf/Data_Science_Course_Projects/blob/main/Analisando_os_Dados_do_Airbnb_Florida.ipynb)
+* [Panorama do COVID19 no Brasil](https://colab.research.google.com/drive/1iRzyj2BaAI7wrLIItF3fQcQyioTiI4F8?usp=sharing)
 * [Panorama do COVID19 no Brasil](https://colab.research.google.com/drive/1iRzyj2BaAI7wrLIItF3fQcQyioTiI4F8?usp=sharing)
 ---

@@ -5,9 +5,9 @@
 </p>
 
 # Adler Barroso Ferreira
-<sub>*Insurance Renewal Assistant* at Sicoob Corretora </sub>
+<sub>*Assistente de Seguros Auto/RE* at Sicoob Corretora </sub>
 
-Minha experiência mais sólida no mercado veio das áreas de investimento e seguros. Dediquei algum tempo à análise de produtos de investimento, como preços de ações, produtos estruturadas, fundos, renda fixa e índices econômicos para uma boa gestão de portfólio.
+Minha experiência mais sólida no mercado veio das áreas de investimentos e seguros. Dediquei algum tempo à análise de produtos de investimento, como preços de ações, produtos estruturadas, fundos, renda fixa e índices econômicos para uma boa gestão de portfólio.
 
 Nas minhas tarefas, sempre gostei de analisar dados e seus comportamentos. Construí planilhas do Excel com várias fórmulas para esse fim, e quando percebi, pude ver que minha paixão estava na análise de dados. Nesta virada de chave, me interessei pelas carreiras de cientista de dados e analista de dados, e comecei a estudar Python com foco com objetivo de migrar para esse ramo. 
 

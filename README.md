@@ -15,7 +15,7 @@ Mais adiante, vou segmentar os projetos desenvolvidos durante meus estudos.
 
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/adler-barroso-ferreira-790323144)
+* [LinkedIn](https://www.linkedin.com/in/a-b-f)
 * [Instagram](https://www.instagram.com/adler.abf/)
 
 ## Artigos

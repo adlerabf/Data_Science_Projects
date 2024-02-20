@@ -5,7 +5,7 @@
 </p>
 
 # Adler Barroso Ferreira
-<sub>*Assistente de Seguros Auto/RE* at Sicoob Corretora </sub>
+<sub>*Assistente de Seguros Auto/RE* no Sicoob Corretora </sub>
 
 Minha experiência mais sólida no mercado veio das áreas de investimentos e seguros. Dediquei algum tempo à análise de produtos de investimento, como preços de ações, produtos estruturadas, fundos, renda fixa e índices econômicos para uma boa gestão de portfólio.
 

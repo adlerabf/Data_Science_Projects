@@ -26,5 +26,5 @@ Mais adiante, vou segmentar os projetos desenvolvidos durante meus estudos.
 ## Projetos:
 * [Analise Exploratória do AIRBNB - Florida](https://github.com/adlerabf/Data_Science_Course_Projects/blob/main/Analisando_os_Dados_do_Airbnb_Florida.ipynb)
 * [Panorama do COVID19 no Brasil](https://colab.research.google.com/drive/1iRzyj2BaAI7wrLIItF3fQcQyioTiI4F8?usp=sharing)
-* [Panorama do COVID19 no Brasil](https://colab.research.google.com/drive/1iRzyj2BaAI7wrLIItF3fQcQyioTiI4F8?usp=sharing)
+* [Árvore de Decisão para Previsão de Derrames](https://github.com/adlerabf/Data_Science_Projects/blob/main/PySparkDesafioXP.ipynb)
 ---
